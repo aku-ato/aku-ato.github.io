@@ -6,7 +6,7 @@ date: 2022-08-23T15:20:54+02:00
 image: cover1.png
 hidden: true
 comments: false
-draft: true
+draft: false
 categories:
     - Frida
     - Android
