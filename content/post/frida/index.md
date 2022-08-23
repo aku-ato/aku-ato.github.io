@@ -16,3 +16,8 @@ tags:
 ---
 
 Some notes about useful frida commands, just to don't forget them.
+
+```python
+def test():
+    return None
+```
